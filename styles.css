@@ -1,0 +1,38 @@
+body{
+    color: white;
+    background: rgb(0, 0, 0);
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+}
+header{
+    border-bottom: solid 2px rgb(215, 0, 0);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(215, 0, 0);
+}
+section{
+    background-color: rgb(23, 17, 135);
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 70px;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.star{
+    margin-right: 465px;
+}
+.show{
+    margin-right: 525px;
+}
+.liberdade{
+    margin-right: 357px;
+}
+.hero{
+    margin-right: 294px;
+}
